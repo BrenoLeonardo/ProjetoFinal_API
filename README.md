@@ -1,6 +1,6 @@
 # Serratec_API-RESTful_Trabalho-Final
 
-<img src="https://img.shields.io/badge/Version-1.0.0-darkblue"/> <img src="https://img.shields.io/badge/Release%20Date-october__25?-darkviolet">
+<img src="https://img.shields.io/badge/Version-1.0.0-darkblue"/> <img src="https://img.shields.io/badge/Release%20Date-october__29-darkviolet">
              
 <h3> Linguagem: Java </h3>
  
